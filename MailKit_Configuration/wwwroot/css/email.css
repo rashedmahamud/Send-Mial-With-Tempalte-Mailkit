@@ -1,0 +1,273 @@
+	.mediaViewInfo {
+		--web-view-name: Email_Newsletter_Email confirmation;
+		--web-view-id: Email_Newsletter_Email_confirmation;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	:root {
+		--web-view-ids: Email_Newsletter_Email_confirmation;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Email_Newsletter_Email_confirmation {
+		position: absolute;
+		width: 768px;
+		height: 1024px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Email_Newsletter_Email confirmation;
+		--web-view-id: Email_Newsletter_Email_confirmation;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;
+	}
+	#Logo_EmailNewsletter {
+		position: absolute;
+		width: 100.794px;
+		height: 69.231px;
+		left: 61px;
+		top: 109px;
+		overflow: visible;
+	}
+	#Group_365 {
+		position: absolute;
+		width: 92.528px;
+		height: 49.904px;
+		left: 0px;
+		top: 19.328px;
+		overflow: visible;
+	}
+	.Path_3420 {
+		overflow: visible;
+		position: absolute;
+		width: 92.528px;
+		height: 49.904px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Path_3421 {
+		overflow: visible;
+		position: absolute;
+		width: 15.005px;
+		height: 14.308px;
+		left: 85.788px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Welcome__ {
+		position: absolute;
+		left: 61px;
+		top: 245px;
+		overflow: visible;
+		width: 102px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 20px;
+		color: rgba(23,23,23,1);
+	}
+	#Thanks_for_trying_aepistle__Pl {
+		position: absolute;
+		left: 61px;
+		top: 295px;
+		overflow: visible;
+		width: 627px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(23,23,23,1);
+	}
+	#CTA_1 {
+		position: absolute;
+		width: 207px;
+		height: 62px;
+		left: 61px;
+		top: 403px;
+		overflow: visible;
+	}
+	.CTA_btn {
+		position: absolute;
+		overflow: visible;
+		width: 207px;
+		height: 62px;
+		left: 0px;
+		top: 0px;
+	}
+	#Confirm_Email {
+		position: absolute;
+		left: 33px;
+		top: 17px;
+		overflow: visible;
+		width: 142px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 20px;
+		color: rgba(255,255,255,1);
+	}
+	#emailNewsletter_footer {
+		position: absolute;
+		width: 768px;
+		height: 259px;
+		left: 0px;
+		top: 765px;
+		overflow: visible;
+	}
+	.Footer_border {
+		position: absolute;
+		overflow: visible;
+		width: 768px;
+		height: 259px;
+		left: 0px;
+		top: 0px;
+	}
+	#Logo_EmailNewsletter_bg {
+		position: absolute;
+		width: 73.382px;
+		height: 50.403px;
+		left: 61px;
+		top: 37px;
+		overflow: visible;
+	}
+	#Group_365_bh {
+		position: absolute;
+		width: 67.364px;
+		height: 36.332px;
+		left: 0px;
+		top: 14.071px;
+		overflow: visible;
+	}
+	.Path_3420_bi {
+		overflow: visible;
+		position: absolute;
+		width: 67.365px;
+		height: 36.332px;
+		left: 0px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Path_3421_bj {
+		overflow: visible;
+		position: absolute;
+		width: 10.925px;
+		height: 10.417px;
+		left: 62.458px;
+		top: 0px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Line_5 {
+		opacity: 0.24;
+	}
+	.Line_5 {
+		overflow: visible;
+		position: absolute;
+		width: 647px;
+		height: 0.5px;
+		left: 61.5px;
+		top: 111.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Address_45__Lorem_Ipsum_Avenue {
+		position: absolute;
+		left: 61px;
+		top: 130px;
+		overflow: visible;
+		width: 156px;
+		height: 53px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+	}
+	#Phone___1__012__345678 {
+		position: absolute;
+		left: 61px;
+		top: 223px;
+		overflow: visible;
+		width: 131px;
+		height: 19px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+	}
+	#Available_On_ {
+		position: absolute;
+		left: 511px;
+		top: 130px;
+		overflow: visible;
+		width: 86px;
+		height: 17px;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+	}
+	.Icon_awesome_android {
+		overflow: visible;
+		position: absolute;
+		width: 22.675px;
+		height: 26.444px;
+		left: 605.5px;
+		top: 125.756px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	.Icon_simple_apple {
+		overflow: visible;
+		position: absolute;
+		width: 23.142px;
+		height: 28.51px;
+		left: 645.124px;
+		top: 123.49px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#aepistle_2020__All_rights_rese {
+		position: absolute;
+		left: 511px;
+		top: 217px;
+		overflow: visible;
+		width: 191px;
+		white-space: nowrap;
+		text-align: left;
+		font-family: Poppins;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 12px;
+		color: rgba(255,255,255,1);
+	}
+	.Icon_material_copyright {
+		overflow: visible;
+		position: absolute;
+		width: 10.867px;
+		height: 10.867px;
+		left: 497.65px;
+		top: 220.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+
+
+Warnings:
+1. ID truncated: The auto generated ID starting with 'Thanks_for_trying_ae' was truncated
+2. ID truncated: The auto generated ID starting with 'Address_45__Lorem_Ip' was truncated
+3. ID truncated: The auto generated ID starting with 'aepistle_2020__All_r' was truncated
+4. Duplicate ID: The Group named, "Logo_EmailNewsletter" on artboard, "Email_Newsletter_Email confirmation" was renamed to, "Logo_EmailNewsletter_bg"
+5. Duplicate ID: The Group named, "Group 365" on artboard, "Email_Newsletter_Email confirmation" was renamed to, "Group_365_bh"
+6. Duplicate ID: The Path named, "Path 3420" on artboard, "Email_Newsletter_Email confirmation" was renamed to, "Path_3420_bi"
+7. Duplicate ID: The Path named, "Path 3421" on artboard, "Email_Newsletter_Email confirmation" was renamed to, "Path_3421_bj"

@@ -1,0 +1,281 @@
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.StaticWebAssets.xml
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.exe
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.csprojAssemblyReference.cache
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorAssemblyInfo.cache
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorAssemblyInfo.cs
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.AssemblyInfoInputs.cache
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.AssemblyInfo.cs
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.TagHelpers.input.cache
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.TagHelpers.output.cache
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorCoreGenerate.cache
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorTargetAssemblyInfo.cache
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorTargetAssemblyInfo.cs
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.csproj.CopyComplete
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\staticwebassets\MailKit_Configuration.StaticWebAssets.Manifest.cache
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\staticwebassets\MailKit_Configuration.StaticWebAssets.xml
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.deps.json
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.runtimeconfig.json
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.runtimeconfig.dev.json
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.pdb
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.Views.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.Views.pdb
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.csproj.CoreCompileInputs.cache
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.MvcApplicationPartsAssemblyInfo.cs
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.MvcApplicationPartsAssemblyInfo.cache
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.Views.pdb
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.dll
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.pdb
+D:\Demo Project\ASP.NET Core\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.genruntimeconfig.cache
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.StaticWebAssets.xml
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.exe
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.deps.json
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.runtimeconfig.json
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.runtimeconfig.dev.json
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\RazorLight.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.csprojAssemblyReference.cache
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorAssemblyInfo.cache
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorAssemblyInfo.cs
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.AssemblyInfoInputs.cache
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.AssemblyInfo.cs
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.TagHelpers.input.cache
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.TagHelpers.output.cache
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorCoreGenerate.cache
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorTargetAssemblyInfo.cache
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorTargetAssemblyInfo.cs
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.csproj.CopyComplete
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\staticwebassets\MailKit_Configuration.StaticWebAssets.Manifest.cache
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\staticwebassets\MailKit_Configuration.StaticWebAssets.xml
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.genruntimeconfig.cache
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.pdb
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.pdb
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.Views.dll
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.csproj.CoreCompileInputs.cache
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.MvcApplicationPartsAssemblyInfo.cs
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.MvcApplicationPartsAssemblyInfo.cache
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Templates\Content.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.Views.pdb
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.Views.pdb
+D:\Demo Project\ASP.NET Core\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Templates\ForgetPassword.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.csprojAssemblyReference.cache
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.csproj.CoreCompileInputs.cache
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.MvcApplicationPartsAssemblyInfo.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.MvcApplicationPartsAssemblyInfo.cache
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorAssemblyInfo.cache
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorAssemblyInfo.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.AssemblyInfoInputs.cache
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.AssemblyInfo.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.pdb
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.StaticWebAssets.xml
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.exe
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.deps.json
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.runtimeconfig.json
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.runtimeconfig.dev.json
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.pdb
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.Views.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit_Configuration.Views.pdb
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\RazorLight.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.TagHelpers.input.cache
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.TagHelpers.output.cache
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorCoreGenerate.cache
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Templates\Content.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\Templates\ForgetPassword.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorTargetAssemblyInfo.cache
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.RazorTargetAssemblyInfo.cs
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.Views.pdb
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.csproj.CopyComplete
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\staticwebassets\MailKit_Configuration.StaticWebAssets.Manifest.cache
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\staticwebassets\MailKit_Configuration.StaticWebAssets.xml
+D:\Demo Project\ASP.NET Core\Send Mial With Tempalte Mialkit\Configure_Mailkit_ASP.NET_Core-\MailKit_Configuration\obj\Debug\netcoreapp3.1\MailKit_Configuration.genruntimeconfig.cache
